@@ -31,8 +31,8 @@ BB2525 */
 
 .canvas {
     background-color: bisque;
-    height: 100vh;
-    width: 100%;
+    
+    
 }
 .top-canvas {
     margin-left: 85%;
@@ -74,4 +74,32 @@ h3 {
 }
 .projects {
     background-color: bisque;
+}
+@media (max-width: 500px){
+    .top-canvas {height: 35px; 
+    width: 35px;
+margin-left: 60%;}
+    h1 {
+        font-size: 1.7rem;
+    }
+    h2 {
+        font-size: .7rem;
+    }
+.python { height: 35px;
+    width: 35px;}
+.labtop {height: 110px;
+width: 110px;}
+.me {
+    height: 50px;
+}
+.int {font-size: 0.5rem;}
+.past {font-size: 1.7rem;}
+h3 {font-size: 0.8rem;}
+.svg {height: 16px;
+width: 16px;}
+p {font-size:0.5rem;}
+li {font-size: 0.5rem;}
+.pas {
+    padding-left: 20%;
+}
 }
