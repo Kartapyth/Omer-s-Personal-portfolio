@@ -27,7 +27,10 @@ BB2525 */
     color: aliceblue;
 }
 
-
+.omer {
+    font-family: 'Lobster Two',
+        cursive;
+}
 
 .canvas {
     background-color: bisque;
@@ -44,13 +47,13 @@ BB2525 */
 }
 h1 {
     font-size: 5rem;
-    font-family: 'Lobster Two', cursive;
+    font-family: Gotham;
 }
 h2 {
     font-size: 2rem;
 }
 h3 {
-    font-family: 'Lobster Two', cursive;
+    font-family: Gotham;
 }
 .python {
     margin-left: 30%;
@@ -69,7 +72,7 @@ h3 {
 .past {
     margin-top: 50px;
     margin-bottom: 50px;
-    font-family: 'Lobster Two', cursive;
+    font-family: Gotham;
     font-size: 5rem;
 }
 .projects {
