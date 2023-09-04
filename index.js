@@ -1,0 +1,1 @@
+alert("Note that this page is made almost only with HTML except for two CSS codes :)")
